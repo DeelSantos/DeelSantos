@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeelSantos
+- 👋 Hi, I’m @EdelsonSantos
 - 👀 I’m interested in  Aprender e  Evoluir cada vez mais no mundo da Tecnologia
 - 🌱 I’m currently learning  Python, SQL entre outros.
 
